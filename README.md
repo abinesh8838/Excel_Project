@@ -13,7 +13,7 @@ This project demonstrates how Excel can be used as a powerful BI tool by combini
 
 ## 📊 Key Insights from the Dashboard
 
-- **Total Revenue & Units Sold Overview**
+- **Total Revenue**
 - **Sales by Product Line** (Basketball, Lifestyle, Running, Soccer, Training)
 - **Region-wise Sales Distribution** (Bangalore, Delhi, Hyderabad, Kolkata, Mumbai, Pune)
 - **Sales Breakdown by Gender & Channel** (Online / Retail)
