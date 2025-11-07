@@ -3,9 +3,9 @@
 A SQL project analyzing BMW car pricing and sales performance across regions, years, and fuel types.
 
 ## Dataset
-- Source: Internal (BMW_car.csv)
-- Columns: Model, Year, Region, Color, Fuel_Type, Transmission, Engine_Size_L, Mileage_KM, Price_USD, Sales_Volume, Sales_Classification
-- <a href=""> Dataset view</a>
+- Source: Internal (BMW_Car_Sales.csv)
+- Columns: Model, Year, Region, Color, Fuel_Type, Transmission, Engine_Size, Mileage_KM, Price_USD, Sales_Volume, Sales_Classification
+- <a href="https://github.com/abinesh8838/Data_analysis_project/blob/main/SQL_Project/BMW_Car_Sales.csv"> Dataset view</a>
 
 ## Tech
 - MySQL 8.x
