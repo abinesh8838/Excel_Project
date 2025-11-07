@@ -4,13 +4,13 @@ I'm excited to share my latest **Excel-based Sales Analytics Dashboard**, built 
 
 This project demonstrates how Excel can be used as a powerful BI tool by combining **Pivot Tables, Pivot Charts, Slicers, and Dashboard Design** to deliver meaningful business insights.
 
-## 📂 Dataset Used  
+## Dataset Used  
 - Name: Nike_Sales
 - File Type: Excel(.xlsx)
 - Data is taken from Kaggle.
 - <a href="https://github.com/abinesh8838/Excel_Project/blob/main/Nike_Sales.xlsx">Dataset view</a>  
 
-## 📊 Key Insights from the Dashboard
+## Key Insights from the Dashboard
 
 - Total Revenue
 - Sales by Product Line (Basketball, Lifestyle, Running, Soccer, Training)
@@ -23,7 +23,7 @@ This project demonstrates how Excel can be used as a powerful BI tool by combini
   - Region  
   - Sales Channel  
 
-## 📸 Dashboard Preview  
+## Dashboard Preview  
 - <a href="https://github.com/abinesh8838/Excel_Project/blob/main/Nike_Sales_Dashboard.png">Dashboard view</a>  
 
 ## Tools & Skills Used
