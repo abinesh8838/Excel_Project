@@ -8,7 +8,7 @@ This project demonstrates how Excel can be used as a powerful BI tool by combini
 - Name: Nike_Sales
 - File Type: Excel(.xlsx)
 - Data is taken from Kaggle.
-- <a href="https://github.com/abinesh8838/Excel_Project/blob/main/Nike_Sales.xlsx">Dataset view</a>
+- <a href="https://github.com/abinesh8838/Excel_Project/Nike_Sales.xlsx">Dataset view</a>
 
 ## Key Insights from the Dashboard
 
