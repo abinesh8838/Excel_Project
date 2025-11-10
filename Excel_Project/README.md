@@ -24,7 +24,7 @@ This project demonstrates how Excel can be used as a powerful BI tool by combini
   - Sales Channel  
 
 ## Dashboard Preview  
-- <a href="https://github.com/abinesh8838/Excel_Project/blob/main/Nike_Sales_Dashboard.png">Dashboard view</a>  
+ ![Dashboard](Images/Nike_Sales_Dashboard_.png)
 
 ## Tools & Skills Used
 - Microsoft Excel	
