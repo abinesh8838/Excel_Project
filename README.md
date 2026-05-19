@@ -19,18 +19,18 @@ An interactive Excel-based MIS dashboard designed to analyze sales performance, 
 
 | Column Name  | Description               |
 | ------------ | ------------------------- |
-| Order ID     | Unique order identifier   |
-| Amount       | Total sales amount        |
-| Profit       | Profit earned from sales  |
-| Quantity     | Quantity of products sold |
-| Category     | Product category          |
-| Sub-Category | Product sub-category      |
-| PaymentMode  | Customer payment method   |
-| Order Date   | Date of order placement   |
-| CustomerName | Customer name             |
-| State        | State of order            |
-| City         | City of order             |
-| Year-Month   | Monthly grouping field    |
+| Order ID     | Unique order identifier  (e.g., B-26776, B-26942, B-26640) |
+| Amount       | Total sales amount  (e.g., 9726, 4975, 1525) |
+| Profit       | Profit earned from sales  (e.g., 1275, 1330, 185) |
+| Quantity     | Quantity of products sold  (e.g., 5, 14, 12) |
+| Category     | Product category  (e.g., Electronics, Office Supplies, Furniture) |
+| Sub-Category | Product sub-category  (e.g., Electronic Games, Printers, Pens) |
+| PaymentMode  | Customer payment method  (e.g., UPI, Dedit Card, EMI) |
+| Order Date   | Date of order placement  (e.g., 27-06-2023) |
+| CustomerName | Customer name  (e.g., David Padilla, Connor Morgan) |
+| State        | State of order  (e.g., Florida, New York, Texas) |
+| City         | City of order  (e.g., Miami, Chicago, Los Angeles) |
+| Year-Month   | Monthly grouping field  (e.g., 2023-06, 2024-12) |
 
 ---
 
